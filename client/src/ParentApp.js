@@ -12,6 +12,7 @@ function ParentApp() {
     const [showSearch, setShowSearch] = useState(true)
     const [currentUser, setCurrentUser] = useState(null)
     const [posts, setPosts] = useState([]);
+    
     const addNewPost = (newPostObj) => {
       setPosts((all_posts) => [ ...all_posts,newPostObj]);
     };

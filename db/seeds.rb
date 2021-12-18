@@ -3,7 +3,7 @@ User.create!(username: "dagoons", password:"asdf", image:"https://i.imgur.com/lI
 User.create!(username: "barley", password:"asdf", image:"https://www.grxstatic.com/4f3rgqwzdznj/2c1XvjFLwNB5xV9mx1sM8E/704240b41060fdf75603b77ffa08284d/Michigan.png?format=png&auto=webp&width=704");
 User.create!(username: "mooster", password:"asdf", image:"https://media.discordapp.net/attachments/888526415228731416/911108055045898290/IMG_1872.png?width=318&height=566");
 User.create!(username: "duangFanboy", password:"asdf", image:"https://i.pinimg.com/originals/17/c0/c3/17c0c3f023d615fe03556b5a4288b04f.jpg");
-User.create!(username: "alanCinsavich", password:"123", image:"https://ca.slack-edge.com/T02MD9XTF-U020EM6FP3K-afe8eabf18aa-512");
+User.create!(username: "bobrossfan", password:"123", image:"https://yt3.ggpht.com/ytc/AKedOLSRSl8xsTNuQU_f6sg3bHI19gZYUSqLu2I78S90MQ=s900-c-k-c0x00ffffff-no-rj");
 User.create!(username: "clanAinsavich", password:"123", image:"https://cdn.discordapp.com/attachments/888526415228731416/910351885909757962/ALC.png");
 User.create!(username: "Henri", password:"123", image:"https://i.ytimg.com/vi/n7hQPaOWwdI/maxresdefault.jpg");
 User.create!(username: "Cozi", password:"123", image:"https://cdn.shopify.com/s/files/1/0541/1546/7434/collections/0f40ef12f686314fc36c32bf22a4f164_1270x1270.jpg?v=1628673146");
