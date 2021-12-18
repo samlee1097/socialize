@@ -6,7 +6,7 @@ class CreatePosts < ActiveRecord::Migration[6.1]
       t.integer :likes
       t.integer :user_id
       t.integer :tag_id
-      t.string :image
+      t.string :image, :default => "https://i.pinimg.com/originals/bd/70/22/bd702201a2b6d8960734f60f34a22754.jpg"
 
       t.timestamps
     end
