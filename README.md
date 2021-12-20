@@ -5,7 +5,7 @@
 * [Description](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
-* [Design] (#design)
+* [Design](#design)
 
 <a name="live-link"/>
 
