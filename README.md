@@ -19,6 +19,10 @@ https://socialize-project-v1.herokuapp.com/
 
 Microblogging and social networking app that allows users to post online diaries and blogs.
 
+* Developed by Javascript/React front-end and Rails/Active Record/Postgres back-end application
+* Full CRUD app that enables users to create, view, modify, and delete blogs
+* Authenticated users at login by encrypting identifying account information via BCrypt
+
 <a name="technologies"/>
 
 ## Technologies
