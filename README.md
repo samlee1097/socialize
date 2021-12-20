@@ -1,7 +1,6 @@
 # Optimum
 
 ## Table of contents
-* [Live Link](#live-link)
 * [Description](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
