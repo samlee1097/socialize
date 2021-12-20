@@ -1,4 +1,4 @@
-# Optimum
+# Socialize
 
 ## Table of contents
 * [Description](#general-info)
