@@ -30,6 +30,7 @@ Microblogging and social networking app that allows users to post online diaries
 - NodeJS (v16), and npm
 - Heroku CLI
 - Postgresql
+- React
 
 <a name="setup"/>
 
